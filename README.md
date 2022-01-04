@@ -30,5 +30,5 @@ go build -ldflags "-s -w" -trimpath
 
 ### 运行截图
 
-![image-20220104215940886](F:\apps\gotoscan\image-20220104215940886.png)
+![](image/1.png)
 
